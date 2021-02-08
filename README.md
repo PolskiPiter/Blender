@@ -1,3 +1,3 @@
 # Blender
-## Trzymam tu swoje prace jakie stworze w Blenderze. 
+## My works made in Blender
 
